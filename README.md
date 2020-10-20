@@ -2,8 +2,6 @@
 
 ## Instructions
 
-* Fork this Repository
-* Clone your forked repo to your computer.
 * Complete the activity below using TDD.
 * Commit your tests BEFORE you commit your implementations to ensure TDD
 * Push your solution to your forked repo
