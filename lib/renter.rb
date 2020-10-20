@@ -1,7 +1,8 @@
 class Renter
-  attr_reader :
-  
-  def initialize
+  attr_reader :name
+
+  def initialize(name)
+    @name = name
   end
 
 end
